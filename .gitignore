@@ -1,0 +1,10 @@
+venv
+runs
+kaggle
+exp10-new
+__pycache__
+datasets
+cardetection.zip
+yolo_utils
+*.pyc
+yolo*.pt
