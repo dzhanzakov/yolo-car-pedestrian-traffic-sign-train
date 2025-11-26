@@ -428,6 +428,9 @@ After you'll have video saved with bounding boxes painted on detected objects.
 
 <video controls src="almaty_drive_test_on_20_epochs/almaty_path.mp4" title="Title"></video>
 
+[▶ Click on the link to access the video
+![video](https://img.youtube.com/vi/QXS9aQkrqMA/0.jpg)](https://youtu.be/QXS9aQkrqMA)
+
 Model performs moderately okay.
 
 That's it!.🫡
