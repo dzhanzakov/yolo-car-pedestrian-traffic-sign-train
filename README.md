@@ -53,3 +53,28 @@ It has exact functionality we need:
 - Merge datasets
 - Manage samples
 - Export to Yolo dataset format
+
+###
+
+Merged dataset had around 4500 samples.
+
+---
+
+### How to prepare dataset:
+
+```python
+
+import fiftyone.zoo as foz
+
+dataset = foz.load_zoo_dataset(
+    "coco-2017",
+    splits="train",
+    download_if_necessary=True,
+    classes=["person", "car"],
+    max_samples=1000,
+    dataset_name="coco-cars-people"
+)
+
+```
+
+download coco dataset, filtered only by person and car for train
