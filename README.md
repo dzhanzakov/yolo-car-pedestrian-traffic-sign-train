@@ -1,3 +1,6 @@
+Note:
+yolo11_large_cars_people_train_on_20_epochs <- inside is the main model
+
 # STEPS TAKEN
 
 ## 1. Dataset Preparation 💾
@@ -434,3 +437,11 @@ After you'll have video saved with bounding boxes painted on detected objects.
 Model performs moderately okay.
 
 That's it!.🫡
+
+## Links:
+
+1. https://docs.ultralytics.com/models/yolo11/
+2. https://www.kaggle.com/datasets/pkdarabi/cardetection
+3. https://docs.ultralytics.com/ru/datasets/detect/coco/
+4. https://youtu.be/QXS9aQkrqMA
+5. https://github.com/yt-dlp/yt-dlp
